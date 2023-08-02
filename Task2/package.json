@@ -1,0 +1,17 @@
+{
+  "name": "onepocket_task",
+  "version": "1.0.0",
+  "description": "Solution for Onepocket question on Linkedin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
